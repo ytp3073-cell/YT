@@ -5,7 +5,7 @@ load_dotenv()
 
 class Config:
     # Bot Configuration
-    TELEGRAM_BOT_TOKEN = os.getenv('8343715238:AAHPzkFiPm59WMrftOkigjs7SWqAv_-4ohY')
+    TELEGRAM_BOT_TOKEN = os.getenv('8343715238:AAEsxvZN7A2R8lssEn8lIqdLp_sxRZ2YtKY')
     ADMIN_USER_ID = int(os.getenv('7558715645', 0))
     
     # API Configuration
